@@ -1,0 +1,8 @@
+{
+  "name": "IeeeCongressApp",
+  "app_id": "5cc51ed0",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
